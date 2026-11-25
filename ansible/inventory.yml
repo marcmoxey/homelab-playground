@@ -1,0 +1,5 @@
+all:
+  hosts:
+    lab1:
+      ansible_host: 10.97.0.2
+      ansible_user: mmoxey

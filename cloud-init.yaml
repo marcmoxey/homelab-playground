@@ -1,0 +1,7 @@
+users:
+  - default
+  - name: mmoxey
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    shell: /bin/bash
+    ssh_authorized_keys:
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHbF6HJ7tzof/eC16q0DXxhrWM4pmbV9E3QICNoFQLT6 mmoxey@nas
